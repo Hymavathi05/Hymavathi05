@@ -9,6 +9,7 @@
 ![DSA](https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+> Tools and technologies I use regularly.
 
 
 I’m a B.Tech ECE ’25 graduate building strong skills in **Core Java, DSA, OOP, and Spring Boot**.  
