@@ -28,10 +28,13 @@ I learn fast, stay consistent, and push myself to write clean, scalable code.
 
 ---
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hymavathi05&layout=compact&theme=default)
+### 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hymavathi05&color=blue)
+![Hymavathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hymavathi05&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hymavathi05&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hymavathi05&theme=tokyonight)
 
 ---
 
