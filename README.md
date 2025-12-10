@@ -14,12 +14,11 @@ I learn fast, stay consistent, and push myself to write clean, scalable code.
 
 ---
 
-## 🚀 What I'm Working On
-- Strengthening **Core Java + DSA**
-- Completing **Spring Boot** fundamentals  
-- Building **small, production-like Java projects**  
-- Preparing for **Accenture, TCS, Infosys, Tech Mahindra** roles in 2026
-
+### 🎯 What I'm Focusing On
+- Strengthening Core Java + DSA foundations  
+- Completing Spring Boot fundamentals  
+- Building small, production-like Java projects  
+- Preparing for Software Engineer roles (Accenture, TCS, Infosys, Tech Mahindra) in 2026
 ---
 
 ## 📚 Key Repositories
