@@ -1,35 +1,46 @@
-# Hi, I'm Hymavathi 👋
+# Hymavathi Kotha  
+**Java Developer | DSA | Problem Solver**
 
-I’m a B.Tech ECE 2025 graduate learning Java, DSA, and Full-Stack Development.  
-I focus on writing clean code, strengthening problem-solving skills, and building real-world projects.
-
----
-
-## 🔧 Skills
-- **Programming:** Java, OOP, Collections, DSA
-- **Frontend:** HTML, CSS, JavaScript (learning)
-- **Database:** MySQL
-- **Tools:** Git, GitHub, Eclipse, VS Code
+I’m a B.Tech ECE ’25 graduate building strong skills in **Core Java, DSA, OOP, and Spring Boot**.  
+I learn fast, stay consistent, and push myself to write clean, scalable code.
 
 ---
 
-## 📌 Projects
-Here are a few of my active learning projects:
-
-- **Java Basics** — OOP, Collections, DSA practice programs  
-- **Collections & DSA** — Coding exercises for interview preparation  
-- *(More full-stack projects coming soon…)*
-
----
-
-## 🎯 Current Goals
-- Master Core Java & Spring Boot  
-- Build complete full-stack applications  
-- Improve DSA skills for coding interviews  
-- Become a Software Engineer at **Accenture** in 2026  
+## 🔧 Technical Skills
+**Languages:** Java, SQL, HTML, CSS  
+**Core Skills:** OOP, DSA, Collections, Exception Handling  
+**Tools & Platforms:** Git, GitHub, Eclipse, VS Code  
+**Currently Learning:** Spring Boot, REST APIs
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/hymavathi-kotha-6a227928b **  
-- **GitHub:** https://github.com/Hymavathi05 **
+## 🚀 What I'm Working On
+- Strengthening **Core Java + DSA**
+- Completing **Spring Boot** fundamentals  
+- Building **small, production-like Java projects**  
+- Preparing for **Accenture, TCS, Infosys, Tech Mahindra** roles in 2026
+
+---
+
+## 📚 Key Repositories
+- **[java-basics](https://github.com/Hymavathi05/java-basics)** — OOP, Collections, DSA  
+- **[product-landing-page](https://github.com/Hymavathi05/product-landing-page)** — Web dev practice  
+- **[projects](https://github.com/Hymavathi05/projects)** — Beginner to intermediate projects  
+
+---
+
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hymavathi05&layout=compact&theme=default)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hymavathi05&color=blue)
+
+---
+
+## 🌐 Connect With Me
+**LinkedIn:** https://www.linkedin.com/in/hymavathi-kotha-6a2279288  
+**GitHub:** https://github.com/Hymavathi05  
+
+---
+
+### 🎯 My Goal for 2026
+Become a **Software Engineer at Accenture** through strong fundamentals, consistent practice, and clean code.
